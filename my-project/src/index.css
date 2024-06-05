@@ -6,3 +6,10 @@
     background-color: #000814;
     overflow-x: hidden;
 }
+
+@layer base{
+    @font-face {
+        font-family: "Inter";
+        src: url(https://fonts.google.com/specimen/Inter+Tight?query=+Inter);
+    }
+}
