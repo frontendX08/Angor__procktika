@@ -36,8 +36,8 @@ const About__Section = () => {
         </div>
         </div>
       </div>
-     <div className="mt-24 ml-8">
-     <div className="flex flex-wrap justify-center  lg:justify-start lg:ml-[364px] mt-[-100px] ml-[-30px] lg:mt-[-96px]">
+      <div className="mt-24 ml-8">
+      <div className="flex flex-wrap justify-center  lg:justify-start lg:ml-[364px] mt-[-100px] ml-[-30px] lg:mt-[-96px]">
         <div className="w-[260px] lg:w-[294\.5px] h-[260px] lg:h-[294px] bg-[#2C333F] m-4 lg:m-0">
           <p className='text-[#F1F2FF] w-[200px] lg:w-[230px] font-semibold text-[16px] lg:text-[18px] mt-4 lg:mt-6 p-6 lg:p-[32px]'>
             Certification
