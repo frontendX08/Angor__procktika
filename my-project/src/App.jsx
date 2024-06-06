@@ -10,8 +10,8 @@ function App() {
   return (
     <>
       <About__Section />
+      <AboutLogin />
       {/* <Alside /> */}
-      {/* <AboutLogin /> */}
     </>
   )
 }
