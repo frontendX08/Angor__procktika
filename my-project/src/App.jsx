@@ -1,22 +1,15 @@
-// import { useState } from 'react'
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
 import './App.css'
-<<<<<<< HEAD
-import AboutLogin from './Components/AboutLogin'
-=======
 import Section from './Components/Section/Section'
->>>>>>> 088a4d940db2cc752df39fd9f9310ca236b65cee
 
 function App() {
-  // const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0)
 
   return (
     <>
-<<<<<<< HEAD
-     
-       <AboutLogin/>          
-=======
-      <Section />
->>>>>>> 088a4d940db2cc752df39fd9f9310ca236b65cee
+    
     </>
   )
 }
