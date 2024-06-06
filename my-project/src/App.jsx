@@ -1,15 +1,17 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import About__Section from './Components/About__Section/About__Section'
+import AboutLogin from './Components/About__Login/AboutLogin'
+import Alside from './Components/About_Alside/Alside'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <About__Section />
+      <About__Section />
+      {/* <Alside /> */}
+      {/* <AboutLogin /> */}
     </>
   )
 }
