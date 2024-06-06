@@ -11,7 +11,7 @@ function App() {
     <>
       <About__Section />
       <AboutLogin />
-      {/* <Alside /> */}
+      <Alside />
     </>
   )
 }
