@@ -1,5 +1,12 @@
 import React, { useState, useEffect } from 'react';
+<<<<<<< HEAD
 import Bola from "../../assets/images/frame.png";
+=======
+// import Slider from 'react-slick';
+// import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick-theme.css";
+// import Bola from "../../assets/images/frame.png";
+>>>>>>> 58bd6a5122f3a3e191e9e2a947d2279273107e32
 
 const reviews = [
     {
