@@ -1,11 +1,5 @@
-import React from 'react'
-
 const Section = () => {
-  return (
-    <div className=' w-[1440px] mr-20 text-white'>
-        
-    </div>
-  )
-}
+  return <div className=" w-[1440px] mr-20 text-white"></div>;
+};
 
-export default Section
+export default Section;

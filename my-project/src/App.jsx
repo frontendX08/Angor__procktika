@@ -1,17 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Section from './Components/Section/Section'
+// import { useState } from "react";
+import "./App.css";
+import Alside from "./Components/About_Alside/Alside";
+// import Section from "./Components/Section/Section";
+import AboutLogin from "./Components/About__Login/AboutLogin";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-    
+      <AboutLogin />
+      <Alside />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
